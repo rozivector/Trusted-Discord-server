@@ -21,18 +21,29 @@ Our reputator most of all from my server (Rozi's Friend) which you can found it 
 The users can send the invite link to the owner server of Rozi's Friend or moderator to analyze the trusted server trough DM or our server, it take a week to analyze it.
 <br />
 <br />
-The reputators are Rozi Vector#9416 , Aziz the fox#5253^ , and Aya Reshiurne#2799^
+The reputators are Rozi Vector#9416 , Aziz the fox#5253^ , and Aya Reshiurne#2799^ (You can be reputators, we are hiring, to hire the job, first you join our server, then ask to Rozi Vector#9416 trough DM and fill registration form that given by Rozi Vector#9416 and send it trough DM). 
 <br />
 ^) this user can change the username everytime
 <br />
 <br />
-# Scoring the trusted server
+# Category of the server
+The server have different types depend on reputation score, there are:
+<br />
+<br />
+1. **Imppecable server** = Average 90% - 100% reputation, <br />This server have popular great server that you able to join it, many people have free feel to serve such as general talking, more request, and stay safe. <br />
+2. **Trusted server** = Average 70% - 89% reputation, <br /> This server verified as good server and feel safe to join it, friendly mods and admin, this server also keep tracking the broken rules, and make members comfortable and fun. And can be special server if let Rozi Vector#9416 to be moderator or admin, don't worry sometimes Rozi Vector#9416 need to be active if he has a schedule to moderatinf.<br />
+3. **Neutral server** = Average 50% - 69%, <br /> This server is good and well to free join it, but sometime it need to be nice to members also Rozi Vector#9416 have able to join it. But it keep the name and identity of server hidden to keep privacy of server. <br />
+4. **Poor server** = Average 30% - 49%, <br /> This server is not good and is up to you if you join it, but keep it mind to server activity there, sometimes it can be weird activity and cannot be confirmed as safe server. And Rozi Vector#9416 will not join the server. <br />
+5. **Untrusted server** = Average 10-29%, <br /> This server is bad and should you don't join it, some cases in this server have not good as our think, have penalties and reported members. <br />
+6. **Absolutely Untrusted Server** = Average 0% - 9% <br /> This server have a risk if you join it and recommended to avoid it, this server is not longer trusted anymore, such as more penalties, leaving hopes and such as more reports from members. <br /> <br />
+
+# Scoring the reputation server
 To scoring the trusted server or reputate it, it simply to counting all score percentage or sum it.
 <br />
 Here some qualify scores to reputating the server:
 <br />
 <br />
-**1 %** = Have an owner and other members in the server <br />
+**1 %** = Have other members in the server <br />
 **3 %** = Add bots in the server and online <br />
 **5 %** = Have more than 3 text channel and 1 voice channel <br />
 **10 %** = Have about more than 1 moderators or admin <br />
@@ -59,7 +70,7 @@ Some server can be discoring or score down may have any reason, here some penalt
 <br />
 **-1 % - -5 %** = Inactivity server more than 1 month. <br />
 **< -10 %** = Spamming in any channel activity and case not resolved. <br />
-**< -20 %** = More than 30 members leave from the server in 1 week <br />
+**< -20 %** = Have bad reported to the server. <br />
 **< -30 %** = Changed the server facility that outside the qualify scoring. <br />
 **-40 % - -45 %** = Unusal activity in the server such as selfbot, have weird cases, etc. <br />
 **< -50 %** = Banned and kicked Rozi Vector#9416 from the server. <br />

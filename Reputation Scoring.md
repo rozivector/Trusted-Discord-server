@@ -32,10 +32,10 @@ The server have different types depend on reputation score, there are:
 <br />
 1. **Imppecable server** = Average 90% - 100% reputation, <br />This server have popular great server that you able to join it, many people have free feel to serve such as general talking, more request, and stay safe. <br />
 2. **Trusted server** = Average 70% - 89% reputation, <br /> This server verified as good server and feel safe to join it, friendly mods and admin, this server also keep tracking the broken rules, and make members comfortable and fun. And can be special server if let Rozi Vector#9416 to be moderator or admin, don't worry sometimes Rozi Vector#9416 need to be active if he has a schedule to moderatinf.<br />
-3. **Neutral server** = Average 50% - 69%, <br /> This server is good and well to free join it, but sometime it need to be nice to members also Rozi Vector#9416 have able to join it. But it keep the name and identity of server hidden to keep privacy of server. <br />
-4. **Poor server** = Average 30% - 49%, <br /> This server is not good and is up to you if you join it, but keep it mind to server activity there, sometimes it can be weird activity and cannot be confirmed as safe server. And Rozi Vector#9416 will not join the server. <br />
-5. **Untrusted server** = Average 10-29%, <br /> This server is bad and you should don't join it, some cases in this server have not good as our think, have penalties and reported members. <br />
-6. **Absolutely Untrusted Server** = Average 0% - 9% <br /> This server have a risk if you join it and recommended to avoid it, this server is not longer trusted anymore, such as more penalties, leaving hopes and such as more reports from members. <br /> <br />
+3. **Neutral server** = Average 50% - 69% reputation, <br /> This server is good and well to free join it, but sometime it need to be nice to members also Rozi Vector#9416 have able to join it. But it keep the name and identity of server hidden to keep privacy of server. <br />
+4. **Poor server** = Average 30% - 49% reputation, <br /> This server is not good and is up to you if you join it, but keep it mind to server activity there, sometimes it can be weird activity and cannot be confirmed as safe server. And Rozi Vector#9416 will not join the server. <br />
+5. **Untrusted server** = Average 10 - 29% reputation, <br /> This server is bad and you should don't join it, some cases in this server have not good as our think, have penalties and reported members. <br />
+6. **Absolutely Untrusted Server** = Average 0% - 9% reputation, <br /> This server have a risk if you join it and recommended to avoid it, this server is not longer trusted anymore, such as more penalties, leaving hopes and such as more reports from members. <br /> <br />
 
 # Scoring the reputation server
 To scoring the trusted server or reputate it, it simply to counting all score percentage or sum it.

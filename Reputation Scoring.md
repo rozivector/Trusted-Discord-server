@@ -21,9 +21,9 @@ Our reputator most of all from my server (Rozi's Friend) which you can found it 
 The users can send the invite link to the owner server of Rozi's Friend or moderator to analyze the trusted server trough DM or our server, it take a week to analyze it.
 <br />
 <br />
-The reputators are Rozi Vector#9416 , Aziz the fox#5253* , and Aya Reshiurne#2799*
+The reputators are Rozi Vector#9416 , Aziz the fox#5253^ , and Aya Reshiurne#2799^
 <br />
-*) this user can change the username everytime
+^) this user can change the username everytime
 <br />
 <br />
 # Scoring the trusted server

@@ -1,4 +1,4 @@
-# Reputation Scoring
+# Reputation Scoring of Discord servers
 Some discord server has verified and listed in My database, each servers have different scoring the reputation depend on its server, using statistics method will determine the reputation scoring.
 <br />
 <br />

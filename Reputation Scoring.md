@@ -46,6 +46,7 @@ Here some qualify scores to reputating the server:
 **1 %** = Have other members in the server <br />
 **3 %** = Add bots in the server and online <br />
 **5 %** = Have more than 3 text channel and 1 voice channel <br />
+**8 %** = Polite server and respect to the members <br />
 **10 %** = Have about more than 1 moderators or admin <br />
 **13 %** = Have an unique server icon and more than 1 custom emoji <br />
 **15 %** = Have custom roles in the server <br />
@@ -76,3 +77,10 @@ Some server can be discoring or score down may have any reason, here some penalt
 **< -50 %** = Banned and kicked Rozi Vector#9416 from the server. <br />
 <br />
 <br />
+# Process of reputating server
+First of all, we are collecting data such as my server that Rozi Vector#9416 and link server from another users.
+<br />
+Then, we will start evaluating the link and analyze the activities in 7 days progress, the objective are activites of general text channel, members activities, logs, equipment of server, Rozi Vector#9416 given roles, servers status (should have a bot that have server status command) and Bots activities.
+<br />
+After analyze it we will determine the server to submit it as verified server including category of server.
+<br /> <br />

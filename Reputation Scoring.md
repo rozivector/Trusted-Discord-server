@@ -57,11 +57,11 @@ Here some qualify scores to reputating the server:
 Some server can be discoring or score down may have any reason, here some penalties scoring the reputation of the server (it could be happened once or twice depend on the server):
 <br />
 <br />
-**-5 %** = Inactivity server more than 1 month. <br />
-**-10 %** = Spamming in any channel activity and case not resolved. <br />
-**-20 %** = More than 30 members leave from the server in 1 week <br />
-**-30 %** = Changed the server facility that outside the qualify scoring. <br />
-**-40 %** = Unusal activity in the server such as selfbot, have weird cases, etc. <br />
-**-50 %** = Banned and kicked Rozi Vector#9416 from the server. <br />
+**-1 % - -5 %** = Inactivity server more than 1 month. <br />
+**< -10 %** = Spamming in any channel activity and case not resolved. <br />
+**< -20 %** = More than 30 members leave from the server in 1 week <br />
+**< -30 %** = Changed the server facility that outside the qualify scoring. <br />
+**-40 % - -45 %** = Unusal activity in the server such as selfbot, have weird cases, etc. <br />
+**< -50 %** = Banned and kicked Rozi Vector#9416 from the server. <br />
 <br />
 <br />

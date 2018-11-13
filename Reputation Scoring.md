@@ -51,11 +51,13 @@ Here some qualify scores to reputating the server:
 **13 %** = Have an unique server icon and more than 1 custom emoji <br />
 **15 %** = Have custom roles in the server <br />
 **17 %** = Have log channel or mod-channel <br />
+**19 %** = The owner server joined our server Rozi's Friend <br />
 **20 %** = Set verification server to low <br />
 **25 %** = More than 1000 members, about frequency >30% active server, and more than 50 active members <br />
 **28 %** = Role request to users <br />
 **30 %** = Set verification server to medium or high <br />
 **33 %** = Have bot command, announcement, welcome, and rules for text channel <br />
+**35 %** = The owner server has active in our server Rozi's Friend <br />
 **37 %** = No Spamming in any text channel <br />
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
 **42 %** = More than 5000 members, about frequency >50% active server, and more than 100 active members <br />

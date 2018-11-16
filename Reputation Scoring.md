@@ -46,25 +46,26 @@ Here some qualify scores to reputating the server:
 **1 %** = Have other members in the server <br />
 **3 %** = Add bots in the server and online <br />
 **5 %** = Have more than 3 text channel and 1 voice channel <br />
+**7 %** = Have log public text channel <br />
 **8 %** = Polite server and respect to the members <br />
 **10 %** = Have about more than 1 moderators or admin <br />
 **13 %** = Have an unique server icon and more than 1 custom emoji <br />
 **15 %** = Have custom roles in the server <br />
-**17 %** = Have log channel or mod-channel <br />
+**17 %** = Have moderation channel (It will given, if your server let Rozi Vector#9416 as mod/admin) <br />
 **19 %** = The owner server joined our server Rozi's Friend <br />
-**20 %** = Set verification server to low <br />
-**25 %** = More than 1000 members, about frequency >30% active server, and more than 50 active members <br />
+**20 %** = 1a. Set verification server to low <br />
+**25 %** = 2a. More than 1000 members, about frequency >30% active server, and more than 50 active members <br />
 **28 %** = Role request to users <br />
-**30 %** = Set verification server to medium or high <br />
+**30 %** = 1b. Set verification server to medium or high <br />
 **33 %** = Have bot command, announcement, welcome, and rules for text channel <br />
 **35 %** = The owner server has active in our server Rozi's Friend <br />
 **37 %** = No Spamming in any text channel <br />
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
-**42 %** = More than 5000 members, about frequency >50% active server, and more than 100 active members <br />
+**42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 100 active members <br />
 **45 %** = Put RozBot in to your server <br />
 **47 %** = Vanity link or custom link (not discord.gg/invitecode) <br />
 **50 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him <br />
-**52 %** = More than 10,000 members, about frequency >70% active server, and more than 300 active members <br />
+**52 %** = 2c. More than 10,000 members, about frequency >70% active server, and more than 300 active members <br />
 **55 %** (the highest point) = Have checked/verified mark in name server <br />
 <br />
 <br />
@@ -86,3 +87,11 @@ Then, we will start evaluating the link and analyze the activities in 7 days pro
 <br />
 After analyze it we will determine the server to submit it as verified server including category of server.
 <br /> <br />
+# How it calculate the scores
+As default reputation score total are 550 (100% reputation), the score with number list are separate from validating score, one point will take it as scoring, then will calculate in this formula below:
+<br />
+<br />
+![formula](https://1.bp.blogspot.com/-ul-3hRd4XVo/W-7EKeZYe8I/AAAAAAAABSo/kSXh8HerLGkoTKPL35kJgzmReXbtcz1xgCLcBGAs/s1600/formula.png)
+<br />
+<br />
+The result will show as real reputation score to your server, as discord terms of service your private server will keep safe than public list, but will listed in our server private.

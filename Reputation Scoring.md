@@ -63,10 +63,10 @@ Here some qualify scores to reputating the server:
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
 **42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 100 active members <br />
 **45 %** = Put RozBot in to your server <br />
-**47 %** = Vanity link or custom link (not discord.gg/invitecode) <br />
-**50 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him <br />
+**47 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him  <br />
+**50 %** = Server Following Discord Terms of Services <br />
 **52 %** = 2c. More than 10,000 members, about frequency >70% active server, and more than 300 active members <br />
-**55 %** (the highest point) = Have checked/verified mark in name server <br />
+**55 %** (the highest point) = Have checked/verified mark in name server or Vanity link or custom link (not discord.gg/invitecode) <br />
 <br />
 <br />
 Some server can be discoring or score down may have any reason, here some penalties scoring the reputation of the server (it could be happened once or twice depend on the server):

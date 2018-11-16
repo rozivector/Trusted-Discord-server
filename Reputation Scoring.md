@@ -61,7 +61,8 @@ Here some qualify scores to reputating the server:
 **35 %** = The owner server has active in our server Rozi's Friend <br />
 **37 %** = No Spamming in any text channel <br />
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
-**42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 30 active members/week<br />
+**42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 30 active members/week <br />
+**44 %** = Be respect to Rozi Vector#9416 in server <br />
 **45 %** = Put RozBot in to your server <br />
 **47 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him  <br />
 **50 %** = Server Following Discord Terms of Services <br />

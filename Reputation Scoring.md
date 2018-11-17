@@ -87,7 +87,7 @@ First of all, we are collecting data such as my server that Rozi Vector#9416 and
 <br />
 Then, we will start evaluating the link and analyze the activities in 7 days progress, the objective are activites of general text channel, members activities, logs, equipment of server, Rozi Vector#9416 given roles, servers status (should have a bot that have server status command) and Bots activities.
 <br />
-After analyze it we will determine the server to submit it as verified server including category of server.
+After analyze it we will determine the server to submit it as verified server including category of server. The Server listed here will be verified and owner will have a certificate as verified with detail.
 <br /> <br />
 # How it calculate the scores
 As default reputation score total are 550 (100% reputation), the score with number list are separate from validating score, one point will take it as scoring, then will calculate in this formula below:
@@ -96,4 +96,8 @@ As default reputation score total are 550 (100% reputation), the score with numb
 ![formula](https://2.bp.blogspot.com/-vALl5fV-4B8/W-9anS1F_CI/AAAAAAAABTI/z6pZ_9dYtD4UDMu80ljqV2lEBLbHq0tgACLcBGAs/s1600/formula.png)
 <br />
 <br />
-The result will show as real reputation score to your server, as discord terms of service your private server will keep safe than public list, but will listed in our server private.
+The result will show as real reputation score to your server, as discord terms of service your private server will keep safe than public list, but will listed in our server private. <br />
+<br />
+# When will do it?
+As well as Rozi Vector#9416 joined the server then Rozi Vector#9416 will contact the owner of server to send confimation. <br />
+If the owner has inactivity or offline in more than 7 days, the reputation will cancelled.

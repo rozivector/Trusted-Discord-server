@@ -6,7 +6,7 @@ To submit your Discord Server here, you must submit your invite link to Rozi Vec
 <br />
 ⭐ **Impeccable Server**: <br />
 1. **Bouncy's Glowtel** (Reputation 93 %)<br />
-Invite Link: [htpps://discord.gg/KaCfKjg](https://discord.gg/KaCfKjg) <br />
+Invite Link: [https://discord.gg/KaCfKjg](https://discord.gg/KaCfKjg) <br />
 Rozi's Role: Member, Announcement <br />
 Owner: Bouncy Glow#1838 <br />
 2. **Exeller Exetior** (Reputation 90 %)<br />

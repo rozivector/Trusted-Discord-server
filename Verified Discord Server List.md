@@ -8,69 +8,90 @@ To submit your Discord Server here, you must submit your invite link to Rozi Vec
 1. **Bouncy's Glowtel** (Reputation 93 %)<br />
 Invite Link: [htpps://discord.gg/KaCfKjg](https://discord.gg/KaCfKjg) <br />
 Rozi's Role: Member, Announcement <br />
+Owner: Bouncy Glow#1838 <br />
 2. **Exeller Exetior** (Reputation 90 %)<br />
 Invite Link: [https://discord.gg/RVHKnmC](https://discord.gg/RVHKnmC) <br />
 Rozi's Role: Moderation, Administrator <br />
+Owner: Ralys Firebrand#2799 <br />
 3. **AMW9000's Server** (Reputation 92 %)<br />
 Invite Link: [https://discord.gg/USN2G8r](https://discord.gg/USN2G8r) <br />
 Rozi's Role: Moderation, Administrator <br />
+Owner: AMW9000#1231 <br />
 4. **/r/SonicTheHedgehog** (Reputation 97 %) <br />
 Invite Link: [https://discord.gg/Sonic](https://discord.gg/Sonic) <br />
 Rozi's Role: Member <br />
+Owner: New Bliss#2945 <br />
 5. **Rozi's Friend** (Reputation 100%) <br />
 Invite Link: [http://discord.gg/rKjFGps](http://discord.gg/rKjFGps) <br />
-Rozi's Role: Owner, Moderation, Administrator <br /> <br /> <br />
+Rozi's Role: Owner, Moderation, Administrator <br />
+Owner: Rozi Vector#9416 <br /> <br /> <br />
 ✅ **Trusted Server**: <br /> <br />
 1. **BroSis™** (Reputation 89 %)<br />
 Invite Link: [https://discord.gg/kFnH9Ww](https://discord.gg/kFnH9Ww) <br />
 Rozi's Role: Moderation, Administrator <br />
+Owner: Clare the Hedgehog#4368 <br />
 2. **Undertale Yellow Community** (Reputation 85 %)<br />
 Invite Link: [https://discord.gg/ZNQRZPa](https://discord.gg/ZNQRZPa) <br />
 Rozi's Role: Member <br />
+Owner: MasterSwordRemix#2286 <br />
 3. **Elite Development** (Reputation: 84%) <br />
 Invite Link: [https://discord.gg/7S9y4EE](https://discord.gg/7S9y4EE) <br />
 Rozi's Role: Developer <br />
+Owner: Bolt#6938 <br />
 4. **OwO Gaming** (Reputation: 81%) <br />
 Invite Link: [https://discord.gg/bxNH44P](https://discord.gg/bxNH44P) <br />
 Rozi's Role: Moderation <br />
+Owner: TheFearlessDeath500#4083 <br />
 5. **Team 182** (Reputation: 80%) <br />
 Invite Link: [https://discord.gg/VJTqc22](https://discord.gg/VJTqc22) <br />
 Rozi's Role: (none) <br />
+Owner: SonicSong182#2490 <br />
 6. **Indonesian Sonic Fans Club** (Reputation: 79%) <br />
 Invite Link: [https://discord.gg/cTgsRC5](https://discord.gg/cTgsRC5) <br />
 Rozi's Role: Member <br />
+Owner: Raptor-177#0272 <br />
 7. **Programming Discussions** (Reputation: 86%) <br />
 Invite Link: [https://discord.gg/9zT7NHP](https://discord.gg/9zT7NHP) <br />
 Rozi's Role: Developer <br />
+Owner: Nelthorim#1274 <br />
 8. **Dapper Dino - Coding** (Reputation: 74%) <br />
 Invite Link: [https://discord.gg/bEx9emv](https://discord.gg/bEx9emv) <br />
 Rozi's Role: (none) <br />
+Owner: Dapper Dino#9274 <br />
 9. **Indonesia Furs** (Reputation: 71%) <br />
 Invite Link: [https://discord.gg/wht2BGv](https://discord.gg/wht2BGv) <br />
 Rozi's Role: Semi Colon, Trusted <br />
+Owner: nara#0501 <br />
 10. **Sally's Knothole** (Reputation: 70%, NSFW content warning) <br />
 Invite Link: [https://discord.gg/gnhgfKR](https://discord.gg/gnhgfKR) <br />
-Rozi's Role: (none) <br /> <br /> <br />
+Rozi's Role: (none) <br />
+Owner: Sally FoxHeart#3098 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 *Any servers that not listed here and i joined* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />
 1. **The AngrySonicLover Discord** (Reputation: 42%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
+Owner: *Unspecified* <br />
 2. **Blue Leaf** (Reputation: 35%) <br />
 Invite Link: [https://discord.gg/yNUtKR3](https://discord.gg/yNUtKR3) <br />
 Rozi's Role: - <br />
+Owner: *Unspecified* <br />
 3. **Vidalia's Server** (Reputation: 35%) <br />
 Invite Link: *Ask the owner* <br />
-Rozi's Role: - <br /> <br > <br />
+Rozi's Role: - <br />
+Owner: *Unspecified* <br /> <br > <br />
 ⚠ **Untrusted Server:** <br /> <br />
 1. **X's Server** (Reputation: 18%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
+Owner: *Unspecified* <br />
 2. **Sonic Paradox** (Reputation: 12%) <br />
 Invite Link: *Prohibited!* <br />
-Rozi's Role: - <br /> <br /> <br />
+Rozi's Role: - <br />
+Owner: *Unspecified* <br /> <br /> <br />
 ⛔ **Absolutely Untrusted Server:** <br /> <br />
 1. **Sonic Legacy** (Reputation: 2%) <br />
 Invite Link: *Prohibited!* <br />
-Rozi's Role: - <br /> <br /> <br />
+Rozi's Role: - <br />
+Owner: *Unspecified* <br /> <br /> <br />

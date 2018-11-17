@@ -11,7 +11,7 @@ To make customers or users can feel safety and know about the small information 
 <br />
 <br />
 # Reputating the server
-The Reputation scoring can be changed everytime depend on condition of servers (about 1 month), and the servers have differents category depends on reputation server, for example an admin server will make some users to be moderator to defend the server then the reputator will analyze it.
+The Reputation scoring can be changed everytime depend on condition of servers (about 1 month), and the servers have differents category depends on reputation server, for example an admin server will make some users to be moderator to defend the server then the reputator will analyze it. It method looks like do survey.
 <br />
 Our reputation scoring will make as format percentage to validation and will determine the category easily.
 <br />

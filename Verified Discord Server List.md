@@ -65,7 +65,11 @@ Owner: nara#0501 <br />
 10. **Sally's Knothole** (Reputation: 70%, NSFW content warning) <br />
 Invite Link: [https://discord.gg/gnhgfKR](https://discord.gg/gnhgfKR) <br />
 Rozi's Role: (none) <br />
-Owner: Sally FoxHeart#3098 <br /> <br /> <br />
+Owner: Sally FoxHeart#3098 <br />
+11. **Dark Tails & Ralsei World** (Reputation: 70%) <br />
+Invite Link: [https://discord.gg/9xkArpP](https://discord.gg/9xkArpP) <br />
+Rozi's Role: Moderation, Administrator
+Owner: Dark Tails The Fox#5082 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

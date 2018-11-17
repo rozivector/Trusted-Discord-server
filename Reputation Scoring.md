@@ -65,6 +65,7 @@ Here some qualify scores to reputating the server:
 **44 %** = Be respect to Rozi Vector#9416 in server <br />
 **45 %** = Put RozBot in to your server <br />
 **47 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him  <br />
+**47 %** = Verification user before join the server as member <br />
 **50 %** = Server Following Discord Terms of Services <br />
 **52 %** = 2c. More than 10,000 members, about frequency >70% active server, and more than 50 active members <br />
 **55 %** (the highest point) = Have checked/verified mark in name server or Vanity link or custom link (not discord.gg/invitecode) <br />

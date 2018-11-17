@@ -102,3 +102,9 @@ The result will show as real reputation score to your server, as discord terms o
 # When will do it?
 As well as Rozi Vector#9416 joined the server then Rozi Vector#9416 will contact the owner of server to send confimation. <br />
 If the owner has inactivity or offline in more than 7 days, the reputation will cancelled.
+<br />
+<br />
+# Are you cooperate or work as Discord staff?
+No, but sometimes we will work as Discord staff if we can or they hiring. Rozi Vector Inc. is an organization led by Rozi Vector#9416 that do this event for purposing they customer or users safe and colaboration with others, private and safety is our priority in our organization not company.
+<br />
+<br />

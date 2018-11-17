@@ -67,7 +67,7 @@ Invite Link: [https://discord.gg/gnhgfKR](https://discord.gg/gnhgfKR) <br />
 Rozi's Role: (none) <br />
 Owner: Sally FoxHeart#3098 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
-*Any servers that not listed here and i joined* <br /> <br /> <br />
+🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />
 1. **The AngrySonicLover Discord** (Reputation: 42%) <br />
 Invite Link: *Ask the owner* <br />

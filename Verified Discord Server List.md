@@ -14,7 +14,7 @@ Invite Link: [https://discord.gg/RVHKnmC](https://discord.gg/RVHKnmC) <br />
 Rozi's Role: Moderation, Administrator <br />
 Owner: Ralys Firebrand#2799 <br />
 3. **AMW9000's Server** (Reputation 92 %)<br />
-Invite Link: [https://discord.gg/USN2G8r](https://discord.gg/USN2G8r) <br />
+Invite Link: [https://discord.gg/YFu8W9X](https://discord.gg/YFu8W9X) <br />
 Rozi's Role: Moderation, Administrator <br />
 Owner: AMW9000#1231 <br />
 4. **/r/SonicTheHedgehog** (Reputation 97 %) <br />

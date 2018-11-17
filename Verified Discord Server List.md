@@ -20,7 +20,7 @@ Rozi's Role: Member <br />
 5. **Rozi's Friend** (Reputation 100%) <br />
 Invite Link: [http://discord.gg/rKjFGps](http://discord.gg/rKjFGps) <br />
 Rozi's Role: Owner, Moderation, Administrator <br /> <br /> <br />
-✅ **Trusted Server**: <br />
+✅ **Trusted Server**: <br /> <br />
 1. **BroSis™** (Reputation 89 %)<br />
 Invite Link: [https://discord.gg/kFnH9Ww](https://discord.gg/kFnH9Ww) <br />
 Rozi's Role: Moderation, Administrator <br />
@@ -51,9 +51,9 @@ Rozi's Role: Semi Colon, Trusted <br />
 10. **Sally's Knothole** (Reputation: 70%, NSFW content warning) <br />
 Invite Link: [https://discord.gg/gnhgfKR](https://discord.gg/gnhgfKR) <br />
 Rozi's Role: (none) <br /> <br /> <br />
-⏺ **Neutral Server**: <br />
+⏺ **Neutral Server**: <br /> <br />
 *Any servers that not listed here and i joined* <br /> <br /> <br />
-❌ **Poor Server**: <br />
+❌ **Poor Server**: <br /> <br />
 1. **The AngrySonicLover Discord** (Reputation: 42%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
@@ -70,7 +70,7 @@ Rozi's Role: - <br />
 2. **Sonic Paradox** (Reputation: 12%) <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br /> <br /> <br />
-⛔ **Absolutely Untrusted Server:** <br />
+⛔ **Absolutely Untrusted Server:** <br /> <br />
 1. **Sonic Legacy** (Reputation: 2%) <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br /> <br /> <br />

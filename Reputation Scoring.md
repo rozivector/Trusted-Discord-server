@@ -92,7 +92,7 @@ After analyze it we will determine the server to submit it as verified server in
 As default reputation score total are 550 (100% reputation), the score with number list are separate from validating score, one point will take it as scoring, then will calculate in this formula below:
 <br />
 <br />
-![formula](https://1.bp.blogspot.com/-JlwwCgM5egk/W-9aOAKjA_I/AAAAAAAABTA/SODBIdWGwQ4YuTcJf9BQNkPJcgZkPjeOgCLcBGAs/s1600/formula.png)
+![formula](https://2.bp.blogspot.com/-vALl5fV-4B8/W-9anS1F_CI/AAAAAAAABTI/z6pZ_9dYtD4UDMu80ljqV2lEBLbHq0tgACLcBGAs/s1600/formula.png)
 <br />
 <br />
 The result will show as real reputation score to your server, as discord terms of service your private server will keep safe than public list, but will listed in our server private.

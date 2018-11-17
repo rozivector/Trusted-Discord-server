@@ -59,7 +59,7 @@ Here some qualify scores to reputating the server:
 **30 %** = 1b. Set verification server to medium or high <br />
 **33 %** = Have bot command, announcement, welcome, and rules for text channel <br />
 **35 %** = The owner server has active in our server Rozi's Friend <br />
-**37 %** = No Spamming in any text channel <br />
+**37 %** = No Spamming in any text channel (except for it have privilege #spam text channel)<br />
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
 **42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 30 active members/week <br />
 **44 %** = Be respect to Rozi Vector#9416 in server <br />

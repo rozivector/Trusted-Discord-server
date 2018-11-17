@@ -63,7 +63,7 @@ Rozi's Role: - <br />
 3. **Vidalia's Server** (Reputation: 35%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br /> <br > <br />
-⚠ **Untrusted Server:** <br />
+⚠ **Untrusted Server:** <br /> <br />
 1. **X's Server** (Reputation: 18%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />

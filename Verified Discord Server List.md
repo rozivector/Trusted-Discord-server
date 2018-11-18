@@ -65,7 +65,11 @@ Owner: Sally FoxHeart#3098 <br />
 10. **Dark Tails & Ralsei World** (Reputation: 70%) <br />
 Invite Link: [https://discord.gg/9xkArpP](https://discord.gg/9xkArpP) <br />
 Rozi's Role: Moderation, Administrator <br />
-Owner: Dark Tails The Fox#5082 <br /> <br /> <br />
+Owner: Dark Tails The Fox#5082 <br />
+11. **BroSis™** (Reputation: 74%) <br />
+Invite Link: [https://discord.gg/nbfn39n](https://discord.gg/nbfn39n)<br />
+Rozi's Role: Moderation, Administrator <br />
+Owner: Clare the Hedgehog#4368 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

@@ -93,7 +93,7 @@ Owner: BronyLilac [YouTube]#3750 <br /> <br /> <br />
 1. **X's Server** (Reputation: 18%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
-Owner: *Unspecified* <br />
+Owner: XGoneGiveItToYa#1967 <br />
 2. **Sonic Paradox** (Reputation: 12%) <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br />

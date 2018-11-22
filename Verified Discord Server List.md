@@ -84,7 +84,11 @@ Owner: *Unspecified* <br />
 3. **Vidalia's Server** (Reputation: 35%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
-Owner: *Unspecified* <br /> <br > <br />
+Owner: *Unspecified* <br />
+4. **Brony Game Adventure** (Reputation: 32%) <br />
+Invite Link: [https://discord.gg/7pCjfqa](https://discord.gg/7pCjfqa) <br />
+Rozi's Role: - <br />
+Owner: BronyLilac [YouTube]#3750 <br /> <br /> <br />
 ⚠ **Untrusted Server:** <br /> <br />
 1. **X's Server** (Reputation: 18%) <br />
 Invite Link: *Ask the owner* <br />

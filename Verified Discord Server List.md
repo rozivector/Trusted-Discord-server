@@ -69,7 +69,15 @@ Owner: Dark Tails The Fox#5082 <br />
 11. **BroSis™** (Reputation: 74%) <br />
 Invite Link: [https://discord.gg/nbfn39n](https://discord.gg/nbfn39n)<br />
 Rozi's Role: Moderation, Administrator <br />
-Owner: Clare the Hedgehog#4368 <br /> <br /> <br />
+Owner: Clare the Hedgehog#4368 <br />
+12. **Ultra's gang** (Reputation: 80%) <br />
+Invite Link: [https://discord.gg/TTrktku](https://discord.gg/TTrktku)<br />
+Rozi's Role: Moderation, Administrator <br />
+Owner: ultra cream the rabbit#2328 <br />
+13. **Marky's Server** (Reputation: 74%) <br />
+Invite Link: [https://discord.gg/kwj7Qj](https://discord.gg/kwj7Qj)<br />
+Rozi's Role: Moderation <br />
+Owner: M a r k y#0246 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

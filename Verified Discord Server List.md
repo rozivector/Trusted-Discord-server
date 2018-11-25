@@ -77,7 +77,11 @@ Owner: ultra cream the rabbit#2328 <br />
 13. **Marky's Server** (Reputation: 74%) <br />
 Invite Link: [https://discord.gg/kwj7Qj](https://discord.gg/kwj7Qj)<br />
 Rozi's Role: Moderation <br />
-Owner: M a r k y#0246 <br /> <br /> <br />
+Owner: M a r k y#0246 <br />
+14. **A Mega Man Server** (Reputation: 71%) <br /> 
+Invite Link: [https://discord.gg/rvKEsFm](https://discord.gg/rvKEsFm)<br />
+Rozi's Role: Moderation, Administratior <br />
+Owner: Metal Man#3514 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

@@ -54,21 +54,21 @@ Here some qualify scores to reputating the server:
 **17 %** = Have moderation channel (It will given, if your server let Rozi Vector#9416 as mod/admin) <br />
 **19 %** = The owner server joined our server Rozi's Friend <br />
 **20 %** = 1a. Set verification server to low <br />
-**25 %** = 2a. More than 1000 members, about frequency >30% active server, and more than 10 active members/week<br />
+**25 %** = 2a. More than 1000 members, about frequency >30% active server, or more than 10 active members/week<br />
 **28 %** = Role request to users <br />
 **30 %** = 1b. Set verification server to medium or high <br />
 **33 %** = Have bot command, announcement, welcome, and rules for text channel <br />
 **35 %** = The owner server has active in our server Rozi's Friend <br />
 **37 %** = No Spamming in any text channel (except for it have privilege #spam text channel)<br />
 **40 %** = Admin and or moderators will be active to prevent broken rules user. <br />
-**42 %** = 2b. More than 5000 members, about frequency >50% active server, and more than 30 active members/week <br />
+**42 %** = 2b. More than 5000 members, about frequency >50% active server, or more than 30 active members/week <br />
 **44 %** = Be respect to Rozi Vector#9416 in server <br />
 **45 %** = Put RozBot in to your server <br />
 **47 %** = Let Rozi Vector#9416 as moderator or admin in the server also never ban or kick him  <br />
 **47 %** = Verification user before join the server as member <br />
 **48 %** = Server sponsored, official, or have brand <br />
 **50 %** = Server Following Discord Terms of Services <br />
-**52 %** = 2c. More than 10,000 members, about frequency >70% active server, and more than 50 active members <br />
+**52 %** = 2c. More than 10,000 members, about frequency >70% active server, or more than 50 active members <br />
 **55 %** (the highest point) = Have checked/verified mark in name server or Vanity link or custom link (not discord.gg/invitecode) <br />
 <br />
 <br />

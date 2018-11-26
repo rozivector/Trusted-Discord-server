@@ -79,7 +79,7 @@ Some server can be discoring or score down may have any reason, here some penalt
 **< -10 %** = Spamming in any channel activity and case not resolved. <br />
 **< -20 %** = Have bad reported to the server. <br />
 **< -30 %** = Changed the server facility that outside the qualify scoring. <br />
-**-40 % - -45 %** = Unusal activity in the server such as selfbot, have weird cases, etc. <br />
+**-40 % - -45 %** = Unusal activity in the server such as selfbot, have weird cases, demoted rozi's role, etc. <br />
 **< -50 %** = Banned and kicked Rozi Vector#9416 from the server. <br />
 <br />
 <br />

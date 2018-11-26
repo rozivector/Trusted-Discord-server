@@ -68,7 +68,7 @@ Here some qualify scores to reputating the server:
 **47 %** = Verification user before join the server as member <br />
 **48 %** = Server sponsored, official, or have brand <br />
 **50 %** = Server Following Discord Terms of Services <br />
-**52 %** = 2c. More than 10,000 members, about frequency >70% active server, or more than 50 active members <br />
+**52 %** = 2c. More than 10,000 members, about frequency >70% active server, or more than 50 active members/week <br />
 **55 %** (the highest point) = Have checked/verified mark in name server or Vanity link or custom link (not discord.gg/invitecode) <br />
 <br />
 <br />

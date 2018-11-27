@@ -106,12 +106,15 @@ Owner: BronyLilac [YouTube]#3750 <br /> <br /> <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />
 Owner: XGoneGiveItToYa#1967 <br />
+Reason: Rude to inactive mods, demoted Rozi's role, rude to another members. <br />
 2. **Sonic Paradox** (Reputation: 12%) <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br />
-Owner: *Unspecified* <br /> <br /> <br />
+Owner: *Unspecified* <br />
+Reason: Sonic's Legacy alliances, Rozi kicked from server <br /> <br /> <br />
 ⛔ **Absolutely Untrusted Server:** <br /> <br />
 1. **Sonic Legacy** (Reputation: 2%) <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br />
-Owner: *Unspecified* <br /> <br /> <br />
+Owner: *Unspecified* <br />
+Reason: Admins Against Rozi, Banned from server, Ruding and unrespectful to Rozi <br /> <br /> <br />

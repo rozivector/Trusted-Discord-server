@@ -117,4 +117,4 @@ Reason: Sonic's Legacy alliances, Rozi kicked from server <br /> <br /> <br />
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br />
 Owner: *Unspecified* <br />
-Reason: Admins Against Rozi, Banned from server, Ruding and unrespectful to Rozi <br /> <br /> <br />
+Reason: Admins Against Rozi, Banned from server, Rudely and unrespectful to Rozi <br /> <br /> <br />

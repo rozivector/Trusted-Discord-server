@@ -85,7 +85,7 @@ Owner: Metal Man#3514 <br />
 15. **Lord Hyper Sonic Team™** <br />
 Invite Link: [https://discord.gg/DVxQWJg](https://discord.gg/DVxQWJg) <br />
 Rozi's Role: Moderation, Administrator <br />
-Owner: Lord Hyper Sonic <br /> <br /> <br />
+Owner: Lord Hyper Sonic#8467 <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

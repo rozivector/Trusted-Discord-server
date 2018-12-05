@@ -92,7 +92,7 @@ Owner: *Unspecified* <br />
 2. **Blue Leaf** (Reputation: 35%) <br />
 Invite Link: [https://discord.gg/yNUtKR3](https://discord.gg/yNUtKR3) <br />
 Rozi's Role: - <br />
-Owner: *Unspecified* <br />
+Owner: Demondra X#7979 <br />
 3. **Vidalia's Server** (Reputation: 35%) <br />
 Invite Link: *Ask the owner* <br />
 Rozi's Role: - <br />

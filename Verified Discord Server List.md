@@ -81,7 +81,11 @@ Owner: M a r k y#0246 <br />
 14. **A Mega Man Server** (Reputation: 80%) <br /> 
 Invite Link: [https://discord.gg/rvKEsFm](https://discord.gg/rvKEsFm)<br />
 Rozi's Role: Moderation, Administratior <br />
-Owner: Metal Man#3514 <br /> <br /> <br />
+Owner: Metal Man#3514 <br />
+15. **Lord Hyper Sonic Team™** <br />
+Invite Link: [https://discord.gg/DVxQWJg](https://discord.gg/DVxQWJg) <br />
+Rozi's Role: Moderation, Administrator <br />
+Owner: Lord Hyper Sonic <br /> <br /> <br />
 ⏺ **Neutral Server**: <br /> <br />
 🔒 *This servers are private* <br /> <br /> <br />
 ❌ **Poor Server**: <br /> <br />

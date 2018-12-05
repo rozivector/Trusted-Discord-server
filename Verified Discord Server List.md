@@ -12,7 +12,7 @@ Owner: Bouncy Glow#1838 <br />
 2. **Exeller Exetior** (Reputation 90 %)<br />
 Invite Link: [https://discord.gg/RVHKnmC](https://discord.gg/RVHKnmC) <br />
 Rozi's Role: Moderation, Administrator <br />
-Owner: Ralys Firebrand#2799 <br />
+Owner: Roleplayer#2799 <br />
 3. **AMW9000's Server** (Reputation 92 %)<br />
 Invite Link: [https://discord.gg/YFu8W9X](https://discord.gg/YFu8W9X) <br />
 Rozi's Role: Moderation, Administrator <br />

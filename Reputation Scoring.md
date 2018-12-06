@@ -100,8 +100,9 @@ As default reputation score total are 550 (100% reputation), the score with numb
 The result will show as real reputation score to your server, as discord terms of service your private server will keep safe than public list, but will listed in our server private. <br />
 <br />
 # When will do it?
-As well as Rozi Vector#9416 joined the server then Rozi Vector#9416 will contact the owner of server to send confimation. <br />
-If the owner has inactivity or offline in more than 7 days, the reputation will cancelled.
+As well as Rozi Vector#9416 joined the server then Rozi Vector#9416 will contact the owner of server to send confimation trough DM. <br />
+If the owner has inactivity or offline in more than 7 days, the reputation will cancelled. <br />
+To start reputation, it requires at least 30 members in the server.
 <br />
 <br />
 # Are you cooperate or work as Discord staff?

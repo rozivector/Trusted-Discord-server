@@ -7,7 +7,7 @@ Reputation is an opinion about that entity, typically as a result of social eval
 <br />
 <br />
 # Purpose the Reputation server
-To make customers or users can feel safety and know about the small information of server before you join it.
+To make customers or users can feel safety and know about the small information of server before user join it.
 <br />
 <br />
 # Reputating the server

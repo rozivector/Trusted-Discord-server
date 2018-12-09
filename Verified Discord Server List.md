@@ -22,7 +22,7 @@ Invite Link: [https://discord.gg/Sonic](https://discord.gg/Sonic) <br />
 Rozi's Role: Member <br />
 Owner: New Bliss#2945 <br />
 5. **Rozi's Friend** (Reputation 100%) <br />
-Invite Link: [http://discord.gg/rKjFGps](http://discord.gg/rKjFGps) <br />
+Invite Link: [https://discord.gg/x5uDzCw](https://discord.gg/x5uDzCw) <br />
 Rozi's Role: Owner, Moderation, Administrator <br />
 Owner: Rozi Vector#9416 <br /> <br /> <br />
 ✅ **Trusted Server**: <br /> <br />

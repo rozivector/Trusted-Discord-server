@@ -20,7 +20,7 @@ Owner: AMW9000#1231 <br />
 4. **/r/SonicTheHedgehog** (Reputation 97 %) <br />
 Invite Link: [https://discord.gg/Sonic](https://discord.gg/Sonic) <br />
 Rozi's Role: Member <br />
-Owner: New Bliss#2945 <br />
+Owner: SuperMoonKnight#8702 <br />
 5. **Rozi's Friend** (Reputation 100%) <br />
 Invite Link: [https://discord.gg/x5uDzCw](https://discord.gg/x5uDzCw) <br />
 Rozi's Role: Owner, Moderation, Administrator <br />

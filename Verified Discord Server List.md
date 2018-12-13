@@ -115,7 +115,12 @@ Reason: Rude to inactive mods, demoted Rozi's role, rude to another members. <br
 Invite Link: *Prohibited!* <br />
 Rozi's Role: - <br />
 Owner: *Unspecified* <br />
-Reason: Sonic's Legacy alliances, Rozi kicked from server <br /> <br /> <br />
+Reason: Sonic's Legacy alliances, Rozi kicked from server <br />
+3. **depths of hell** (Reputation: 25%) <br />
+Invite Link: *Ask the owner* <br />
+Rozi's Role: Slaves <br />
+Owner: death#4237 <br />
+Reason: Rude in Rozi's friends server, abusing Rozi's friend Server in their announcement, annoying to other members. <br /> <br /> <br />
 ⛔ **Absolutely Untrusted Server:** <br /> <br />
 1. **Sonic Legacy** (Reputation: 2%) <br />
 Invite Link: *Prohibited!* <br />
